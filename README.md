@@ -28,6 +28,10 @@ It may be reused or adapted for analytics portfolios and dashboards.
 ---
 
 📌 Feel free to fork, share, or suggest improvements!
+
+📊 Data Source
+This project uses data from Our World in Data – Electric Car Sales made available under the Creative Commons BY license. The dataset provides annual EV sales by country and is intended for educational, research, and analytical purposes.
+
 ### 📊 Dashboard Preview
 
 ![EV Dashboard](https://github.com/arcicristobal87/electric-vehicles-sales-overview/blob/main/EV%20Sales.jpg?raw=true)
