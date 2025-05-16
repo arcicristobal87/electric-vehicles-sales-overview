@@ -28,3 +28,7 @@ It may be reused or adapted for analytics portfolios and dashboards.
 ---
 
 📌 Feel free to fork, share, or suggest improvements!
+### 📊 Dashboard Preview
+
+![EV Dashboard](https://github.com/arcicristobal87/electric-vehicles-sales-overview/blob/main/EV%20Sales.jpg?raw=true)
+
